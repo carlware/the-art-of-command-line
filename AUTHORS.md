@@ -6,8 +6,6 @@ Contributors are listed in alphabetical order by GitHub login.
 Some contributors are also assigned roles as maintainers.
 They have kindly agreed to review and help update future contributions for the translation or section they own.
 
-
-
 *Maintainers*
 
 * [Ahmad Zafrullah (23Pstars)](https://github.com/23Pstars) — [3+](https://github.com/jlevy/the-art-of-command-line/commits?author=23Pstars)/[1+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3A23Pstars) — _translation maintainer (id)_
